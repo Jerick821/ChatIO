@@ -1,2 +1,16 @@
 node server
 local host 3000
+
+deployment in heroku.com:
+
+CmD:
+heroku login
+git init
+git add . 
+git commit -m "Initial Commit"
+
+follow https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app
+
+heroku website: http://fathomless-depths-46343.herokuapp.com/?
+
+make sure its http
